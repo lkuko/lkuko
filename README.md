@@ -23,7 +23,7 @@
   <a href="https://github.com/pulls?q=is%3Apr+author%3Alkuko+is%3Apublic">开源动态</a>
 </p>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
 
