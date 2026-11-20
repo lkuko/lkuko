@@ -80,5 +80,5 @@
 
 <!-- 06 页脚：版式参考来源。 -->
 <p align="center">
-  <sub>排版灵感来自 <a href="https://github.com/lishuangqiang">lishuangqiang</a> · 保持好奇，持续动手。</sub>
+  <sub>排版灵感来自 · 保持好奇，持续动手。</sub>
 </p>
