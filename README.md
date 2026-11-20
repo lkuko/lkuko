@@ -60,25 +60,20 @@
 - RAG、知识检索与应用落地
 - 全栈产品与微信小程序
 
-#### 🛠️ 项目中使用的技术
-
-<p>
-  <code>Python</code> <code>TypeScript</code> <code>JavaScript</code><br/>
-  <code>FastAPI</code> <code>React</code> <code>Vue 3</code><br/>
-  <code>LangGraph</code> <code>CloudBase</code> <code>Docker</code>
-</p>
-
 #### 📡 开源与交流
 
 - 🐙 [GitHub · @lkuko](https://github.com/lkuko)
 - 🔀 [我的公开 Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Alkuko+is%3Apublic)
 - 💬 [我的公开 Issue](https://github.com/issues?q=is%3Aissue+author%3Alkuko+is%3Apublic)
 
+#### 🛠️ 教义
+<p>所有坏事都是厄里斯教徒的阴谋！</p>
+<p>遇到讨厌的人，不要怀疑，他们肯定被恶魔附身！</p>
+
 </td>
 </tr>
 </table>
 
-<!-- 06 页脚：版式参考来源。 -->
 <p align="center">
-  <sub>排版灵感来自 · 保持好奇，持续动手。</sub>
+  <sub>保持好奇，持续动手。</sub>
 </p>
